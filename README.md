@@ -1,2 +1,2 @@
 # C-programming
-College-work
+College-assignments
